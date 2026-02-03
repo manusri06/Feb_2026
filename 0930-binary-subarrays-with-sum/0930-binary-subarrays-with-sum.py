@@ -8,7 +8,7 @@ class Solution:
         for num in nums:
             ps+=num
             if ps-goal in count:
-                ans+=count[ps-goal]
+                ans += count[ps-goal]
             if ps in count:
                 count[ps]+=1
             else:
