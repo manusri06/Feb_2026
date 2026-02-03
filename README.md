@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/manusri06/Feb_2026/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/manusri06/Feb_2026/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/manusri06/Feb_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manusri06/Feb_2026/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/manusri06/Feb_2026/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/manusri06/Feb_2026/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/manusri06/Feb_2026/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/manusri06/Feb_2026/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
