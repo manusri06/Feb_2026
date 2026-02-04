@@ -21,16 +21,6 @@ class Solution:
                 sumi += (d-p)
         return sumi
 
-
-
-
-
-
-
-
-
-
-
 """n = len(ratings)
 c = [1]*n
 
