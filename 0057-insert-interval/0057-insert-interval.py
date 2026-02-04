@@ -14,6 +14,4 @@ class Solution:
         while i <n :
             res.append(intervals[i])
             i+=1
-        return res
-        
-        
+        return res 
