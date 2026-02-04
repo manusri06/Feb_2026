@@ -8,4 +8,14 @@ class Solution:
             if i == ce:
                 j+=1
                 ce = f
-        return j
+        return j 
+
+""" def rec(i):
+    if i > len(nums)-1:
+        return 0 
+    ans = float('inf')
+    for step in range(1,nums[i]+1):
+        ans += min (ans,rec(i+step))
+    return ans
+return rec(0) """
+
