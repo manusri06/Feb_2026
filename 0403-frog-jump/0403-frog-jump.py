@@ -1,8 +1,5 @@
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
-        if stones[1] != 1:
-            return False
-
         dp = {stone:[] for stone in stones}
         dp[0].append(0)
 
