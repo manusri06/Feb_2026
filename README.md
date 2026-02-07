@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/manusri06/Feb_2026/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/manusri06/Feb_2026/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/manusri06/Feb_2026/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manusri06/Feb_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/manusri06/Feb_2026/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/manusri06/Feb_2026/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/manusri06/Feb_2026/tree/master/0403-frog-jump) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/manusri06/Feb_2026/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/manusri06/Feb_2026/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/manusri06/Feb_2026/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manusri06/Feb_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/manusri06/Feb_2026/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/manusri06/Feb_2026/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/manusri06/Feb_2026/tree/master/0403-frog-jump) |
