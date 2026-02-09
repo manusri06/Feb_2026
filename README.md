@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manusri06/Feb_2026/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/manusri06/Feb_2026/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
