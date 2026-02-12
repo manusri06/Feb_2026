@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/manusri06/Feb_2026/tree/master/0175-combine-two-tables) |
 | [0550-game-play-analysis-iv](https://github.com/manusri06/Feb_2026/tree/master/0550-game-play-analysis-iv) |
 | [0626-exchange-seats](https://github.com/manusri06/Feb_2026/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/manusri06/Feb_2026/tree/master/1164-product-price-at-a-given-date) |
