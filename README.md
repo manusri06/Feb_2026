@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/manusri06/Feb_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manusri06/Feb_2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/manusri06/Feb_2026/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/manusri06/Feb_2026/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manusri06/Feb_2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [2498-frog-jump-ii](https://github.com/manusri06/Feb_2026/tree/master/2498-frog-jump-ii) |
 ## Binary Search
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/manusri06/Feb_2026/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/manusri06/Feb_2026/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/manusri06/Feb_2026/tree/master/1204-last-person-to-fit-in-the-bus) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/manusri06/Feb_2026/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
