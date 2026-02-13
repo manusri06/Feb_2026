@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/manusri06/Feb_2026/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/manusri06/Feb_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/manusri06/Feb_2026/tree/master/0678-valid-parenthesis-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manusri06/Feb_2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/manusri06/Feb_2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/manusri06/Feb_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manusri06/Feb_2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manusri06/Feb_2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
