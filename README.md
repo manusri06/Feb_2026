@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/manusri06/Feb_2026/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/manusri06/Feb_2026/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/manusri06/Feb_2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manusri06/Feb_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/manusri06/Feb_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manusri06/Feb_2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manusri06/Feb_2026/tree/master/1248-count-number-of-nice-subarrays) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manusri06/Feb_2026/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/manusri06/Feb_2026/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/manusri06/Feb_2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manusri06/Feb_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/manusri06/Feb_2026/tree/master/0678-valid-parenthesis-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manusri06/Feb_2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/Feb_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/manusri06/Feb_2026/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/manusri06/Feb_2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manusri06/Feb_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/manusri06/Feb_2026/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/manusri06/Feb_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manusri06/Feb_2026/tree/master/0930-binary-subarrays-with-sum) |
