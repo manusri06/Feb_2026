@@ -1,22 +1,47 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        n = len(s)
         dict = {}
-        l = 0
-        ans = mf = 0
+        ans = mfreq = l = 0
+        for r in range(len(s)):
+            if s[r] not in dict:
+                dict[s[r]] = 0
+            dict[s[r]] +=1
+            mfreq = max(mfreq,dict[s[r]])
 
-        for r in range(n):
-            if s[r] in dict:
-                dict[s[r]] +=1
-            else:
-                dict[s[r]] = 1
-            mf = max(mf,dict[s[r]])
-            
-            while (r-l+1)-mf > k:
+            while (r-l+1)-mfreq > k:
                 dict[s[l]] -= 1
                 l+=1
             ans = max(ans,r-l+1)
         return ans
+
+
+
+
+
+
+
+
+
+
+'''n = len(s)
+dict = {}
+l = 0
+ans = mf = 0
+
+for r in range(n):
+    if s[r] in dict:
+        dict[s[r]] +=1
+    else:
+        dict[s[r]] = 1
+    mf = max(mf,dict[s[r]])
+    
+    while (r-l+1)-mf > k:
+        dict[s[l]] -= 1
+        l+=1
+    ans = max(ans,r-l+1)
+return ans'''
+
+
 
 """  n = len(s)
 ans = 0
