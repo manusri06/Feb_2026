@@ -1,14 +1,12 @@
 class Solution:
     def longestOnes(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-        l = maxi = z =  0
-
-        for r in range(n):
+        l = ans = 0
+        for r in range(len(nums)):
             if nums[r] == 0:
-                z+=1
-            while z>k:
+                k-=1
+            while k<0:
                 if nums[l] == 0:
-                    z-=1
+                    k+=1
                 l+=1
-            maxi = max(maxi,r-l+1)
-        return maxi
+            ans = max(ans,r-l+1)
+        return ans
