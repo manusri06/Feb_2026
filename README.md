@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/manusri06/Feb_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manusri06/Feb_2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manusri06/Feb_2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manusri06/Feb_2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/manusri06/Feb_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/manusri06/Feb_2026/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manusri06/Feb_2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manusri06/Feb_2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-frog-jump-ii](https://github.com/manusri06/Feb_2026/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/manusri06/Feb_2026/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/manusri06/Feb_2026/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/manusri06/Feb_2026/tree/master/0678-valid-parenthesis-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manusri06/Feb_2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
